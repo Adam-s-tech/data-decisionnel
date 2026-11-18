@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="540" viewBox="0 0 1100 540" role="img" aria-label="Capture fictive d'un tableau de bord">
+  <rect width="1100" height="540" fill="#F6F7FB"/>
+  <rect x="40" y="30" width="1020" height="60" rx="10" fill="#2D3561"/>
+  <text x="70" y="68" font-family="Arial" font-size="24" fill="#FFFFFF" font-weight="bold">Tableau de bord · démo fictive</text>
+  <rect x="60" y="120" width="300" height="100" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="85" y="150" font-family="Arial" font-size="16" fill="#666">Chiffre d'affaires</text>
+  <text x="85" y="195" font-family="Arial" font-size="34" fill="#2D3561" font-weight="bold">1,2 M€</text>
+  <rect x="390" y="120" width="300" height="100" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="415" y="150" font-family="Arial" font-size="16" fill="#666">Marge</text>
+  <text x="415" y="195" font-family="Arial" font-size="34" fill="#5847A7" font-weight="bold">18 %</text>
+  <rect x="720" y="120" width="300" height="100" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="745" y="150" font-family="Arial" font-size="16" fill="#666">Commandes</text>
+  <text x="745" y="195" font-family="Arial" font-size="34" fill="#AC28B4" font-weight="bold">312</text>
+  <rect x="60" y="250" width="960" height="260" rx="10" fill="#FFFFFF" stroke="#D9DCE8"/>
+  <text x="85" y="285" font-family="Arial" font-size="18" fill="#2D3561" font-weight="bold">Ventes par mois</text>
+  <line x1="100" y1="470" x2="980" y2="470" stroke="#D9DCE8" stroke-width="2"/>
+  <rect x="130" y="380" width="70" height="90" fill="#2D3561"/>
+  <rect x="250" y="350" width="70" height="120" fill="#5847A7"/>
+  <rect x="370" y="400" width="70" height="70" fill="#2D3561"/>
+  <rect x="490" y="320" width="70" height="150" fill="#AC28B4"/>
+  <rect x="610" y="360" width="70" height="110" fill="#5847A7"/>
+  <rect x="730" y="300" width="70" height="170" fill="#2D3561"/>
+  <rect x="850" y="340" width="70" height="130" fill="#AC28B4"/>
+  <text x="85" y="500" font-family="Arial" font-size="14" fill="#666">Données fictives. Aucune donnée client.</text>
+</svg>
